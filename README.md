@@ -1,2 +1,2 @@
 # Prework--study--guide
-A Prework of a study Guide boot camp
+A Prework study guide for bootcamp learning 
