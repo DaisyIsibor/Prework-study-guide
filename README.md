@@ -1,6 +1,6 @@
 # Beginners guide on basic coding languages
 
-## The Beginners guide on basic coding languages which include HTML, CSS, GIT/GITHUB and JAVASCRIPT is a webpage that container basic information about the coding languages as well some examples of element tag, git commands,CSS styles and patterns we use when creating a webaage                                                         
+## The Beginners guide on basic coding languages which include HTML, CSS, GIT/GITHUB and JAVASCRIPT is a webpage that contains basic information about the coding languages as well as some examples of element tag, git commands,CSS styles and patterns we use when creating a webpage                                                         
 
 ## This webpage was inspired by an individual going into the IT field or just a person looking to understand how certain things are done behind the scenes of coding and what it entails to bring a code to life.
 
@@ -17,7 +17,7 @@ You can open chromeDevTool in the command on windows (Control+Shift+I).
  >OR on the browser page, right click and click inspect and navigate to the console tab.
 
  When you are on the Console tab, it will list the topics that was described on the webpage and will suggest which topic you would like to study first.
- To see more action the webpage, while on the console tab, click the refresh button couple of times and different suggestion will pop up on what to study first.
+ To see more action on the webpage, while on the console tab, click the refresh button couple of times and different suggestion will pop up on what to study first.
 
 
 - [Credits](#credits) N/A
