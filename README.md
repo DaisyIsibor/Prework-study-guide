@@ -1,4 +1,5 @@
 # Beginners guide on basic coding languages
+https://daisyisibor.github.io/Prework-study-guide/
 
 ## The Beginners guide on basic coding languages which include HTML, CSS, GIT/GITHUB and JAVASCRIPT is a webpage that contains basic information about the coding languages as well as some examples of element tag, git commands,CSS styles and patterns we use when creating a webpage                                                         
 
